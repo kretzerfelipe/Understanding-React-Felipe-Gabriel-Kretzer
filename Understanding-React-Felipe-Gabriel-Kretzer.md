@@ -12,9 +12,9 @@ GitHub é a ferramenta de repositório remoto utilizado por diversas pessoas. Es
 
 ## Como começar a utilizar o Git e GitHub (Command Guide):
 - Antes de qualquer coisa
-    - Você debe baixar o [Git](https://git-scm.com/)  no seu computador.
-    - Posteriormente, você deve criar um conta no GitHib.
-    - Para dar continuidade as atividades, utilize os comandos no "CMD" (Prompt de Comando)
+    - Você deve baixar o [Git](https://git-scm.com/)  no seu computador.
+    - Posteriormente, você deve criar um conta no [GitHub](https://github.com/).
+    - Para dar continuidade as atividades, utilize o "CMD" (Prompt de Comando)
 
 ### Verificando se o Git está instalado e em qual versão ele está:
 - git --version
@@ -22,3 +22,23 @@ GitHub é a ferramenta de repositório remoto utilizado por diversas pessoas. Es
 - git config --global user.email you@example.com
 - git config --global user.name "Your Name"
 
+## Criando pasta remota e configurando para usá-la no repositório local (Command Guide) 
+- Vá para o seu perfil no GitHub e entre em "Your repositories": 
+![Repositório](/assets/Screenshot_1.png "Your repositories") 
+
+- Crie uma novo repositório: 
+![New](/assets/Screenshot_2.png "New")
+
+- Crie uma pasta com nome, descrição e arquivo README.md
+![Pasta](/assets/Screenshot_3.png "Pasta")
+
+- Em um local do seu computador, copie a pasta através do CMD como o comando:
+    - git clone < link > 
+
+![Pasta](/assets/Screenshot_4.png "Pasta")
+
+![Pasta](/assets/Screenshot_5.png "Pasta")
+
+![Pasta](/assets/Screenshot_6.png "Pasta")
+
+- Pronto, agora seu repositório local e seu repositório remoto estão conectados!
