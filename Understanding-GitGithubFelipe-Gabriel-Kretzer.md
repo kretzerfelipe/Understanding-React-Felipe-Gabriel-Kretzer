@@ -42,3 +42,15 @@ GitHub é a ferramenta de repositório remoto utilizado por diversas pessoas. Es
 ![Pasta](/assets/Screenshot_6.png "Pasta")
 
 - Pronto, agora seu repositório local e seu repositório remoto estão conectados!
+
+### Commanda Guide
+
+- Para deixar seu arquivo/pasta pronto para um "commit" use:  
+    - "git add ." para todos os arquivos
+    - "git add (arquivo)" para apenas um arquivo  
+- Para deixar seu arquivo/pasta pronto para enviar ao repositório remoto:
+    - "git commit -m (comentário)"
+- Para enviar seu arquivo/pasta para o reposiório remoto:
+    - git push
+- Para trazer arquivos/pastas presentes no repositório remoto para o local
+    - git pull
