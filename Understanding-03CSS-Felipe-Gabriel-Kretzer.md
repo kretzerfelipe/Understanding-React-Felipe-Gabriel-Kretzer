@@ -1,0 +1,6 @@
+# CSS
+CSS é a sigla para Cascading Style Sheets, que em português significa Folhas de Estilo em Cascata. É uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação, como HTML. O CSS é uma tecnologia fundamental da World Wide Web, ao lado do HTML e do JavaScript.
+
+Ele é projetado para permitir a separação do conteúdo e da apresentação, incluindo layout, cores e fontes. Essa separação pode melhorar a acessibilidade do conteúdo, fornecer mais flexibilidade e controle na especificação das características de apresentação e permitir que várias páginas da web compartilhem a formatação especificando o CSS relevante em um arquivo .css separado, o que reduz a complexidade e repetição no conteúdo estrutura.
+
+O nome “cascata” vem do esquema de prioridade especificado para determinar qual regra de estilo se aplica se mais de uma regra corresponder a um determinado elemento. Esse esquema de prioridade em cascata é previsível. As especificações do CSS são mantidas pelo World Wide Web Consortium (W3C).
